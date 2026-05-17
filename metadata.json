@@ -1,0 +1,8 @@
+{
+  "name": "Slote AI Chatbot",
+  "description": "A friendly, intelligent, and conversational AI assistant named Slote.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
